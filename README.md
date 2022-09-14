@@ -1,5 +1,19 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+
+##### Nama  : Resti Apriliyanti
+#### NIM    : 21343014
+#### Materi : Java Operators (JS-04)
+
+1. Penggunaan Operator Aritmatika
+Operator aritmatika terdiri dari penjumlahan (+), pengurangan (-), perkalian (*), pembagian (/), dan hasil sisa pembagian atau modulus (%)
+
+2. Penggunaan Operator Relasi
+Operator relasi terdiri dari tanda lebih dari (> atau >=), kurang dari (< atau <=), sama dengan (==) dan tidak sama dengan (!=)
+
+3. Penggunaan Operator Logika Boolean AND (&& atau &)
+
+4. Penggunaan Operator Logika Boolean OR (|| atau |)
+
+5. Penggunaan Operator Logika NOT (!)
+
+6. Penggunaan Operator Kondisi untuk membandingkan sebuah pernyataan
